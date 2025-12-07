@@ -3,6 +3,3 @@ description: ""
 theme: jekyll-theme-modernist
 
 show_downloads: false
-
-github:
-  is_project_page: false
