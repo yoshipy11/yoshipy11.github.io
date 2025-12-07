@@ -2,7 +2,7 @@
 title: "吉田裕紀 | 研究紹介"
 ---
 
-# 吉田 裕紀（Hiroki Yoshida）
+吉田裕紀
 
 [English Page](/)
 
