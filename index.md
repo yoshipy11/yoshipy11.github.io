@@ -2,8 +2,6 @@
 title: "Hiroki Yoshida"
 ---
 
-# Hiroki Yoshida
-
 M2 Student, Graduate School of Informatics, Kyoto University  
 Ohtsuka Laboratory   
 
