@@ -1,9 +1,8 @@
 title: "Hiroki Yoshida"
-description: "Generative AI and Optimal Control"
+
 theme: jekyll-theme-minimal
 
-# プロフィール画像を置く場合は assets/profile.jpg を用意して
-# 次の行のコメントアウトを外す
-# logo: /assets/profile.jpg
-
 show_downloads: false
+
+github:
+  is_project_page: false
