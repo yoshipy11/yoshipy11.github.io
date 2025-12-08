@@ -11,7 +11,7 @@ Ohtsuka Laboratory
 
 ## About
 
-M2 student in Informatics at Kyoto University (Ohtsuka Lab).  
+I am Hiroki Yoshida, a Master's student in Informatics at Kyoto University (Ohtsuka Lab).  
 My research focuses on Generative AI and Optimal Control Theory.
 
 ---
