@@ -1,8 +1,8 @@
 ---
-title: "Hiroki Yoshida"
+title: "Hiroki Yoshida | Research"
 ---
 
-M2 Student, Graduate School of Informatics, Kyoto University  
+Master Student (M2), Graduate School of Informatics, Kyoto University  
 Ohtsuka Laboratory   
 
 [Japanese Page](/ja/)
@@ -11,8 +11,9 @@ Ohtsuka Laboratory
 
 ## About
 
-I am Hiroki Yoshida, a Master's student in Informatics at Kyoto University (Ohtsuka Lab).  
-My research focuses on Generative AI and Optimal Control Theory.
+My research spans two directions: the mathematical analysis of stochastic processes underlying generative models such as diffusion models, and the study of dynamical systems through nonlinear and optimal control theory.  
+I am also interested in integrating these perspectives by developing control-theoretic methods for steering the distributional evolution of generative models.
+
 
 ---
 
