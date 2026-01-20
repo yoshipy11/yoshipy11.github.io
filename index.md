@@ -29,11 +29,11 @@ I am also interested in integrating these perspectives by developing control-the
 
 - **Hiroki Yoshida** and Kenta Hoshino, "Finite-Horizon Constrained Optimal Control with Wasserstein Costs for Intermediate Wasserstein Constraints,"  *2026 SICE International Symposium on Control Systems (SICE ISCS)*, 2026. (Accepted)
 
-- **Hiroki Yoshida** and Kenta Hoshino, "An Upper Bound on Distributional Discrepancy and Performance Improvement in Finite-Horizon Optimal Control with Wasserstein Costs,"  *2025 25th International Conference on Control, Automation and Systems (ICCAS 2025)*, 2025.
+- **Hiroki Yoshida** and Kenta Hoshino, "An Upper Bound on Distributional Discrepancy and Performance Improvement in Finite-Horizon Optimal Control with Wasserstein Costs,"  *2025 25th International Conference on Control, Automation and Systems (ICCAS 2025)*, 2025. [URL](https://ieeexplore.ieee.org/document/11301346)
 
 ### Journal
 
-- **Hiroki Yoshida** and Kazunori Sakurama, "Low-Cost, Explainable, and Scalable Classification of Multi-View Images through Normalized Product of Multivariate Gaussian Distributions,"  *Journal of the Society of System and Control Information*, Vol. 38, No. 4, pp. 53–62, 2025.
+- **Hiroki Yoshida** and Kazunori Sakurama, "Low-Cost, Explainable, and Scalable Classification of Multi-View Images through Normalized Product of Multivariate Gaussian Distributions,"  *Transactions of the Institute of Systems, Control and Information Engineers*, Vol. 38, No. 4, pp. 53–62, 2025. [URL](https://www.jstage.jst.go.jp/article/iscie/38/4/38_53/_article/-char/en)
 
 ### Domestic Conference
 
